@@ -1,0 +1,19 @@
+# Ignore the following files and directories
+
+# Exclude the version control directories
+.git/
+
+# Exclude the files for local development
+.env
+
+# Exclude built application files
+/bin/
+/build/
+
+# Exclude temporary files
+*.tmp
+*.log
+
+# Exclude IDE settings
+.idea/
+.vscode/
